@@ -1,6 +1,6 @@
 # Qiskit Global Summer School 2025 
 
-Welcome to my repository for the **Qiskit Global Summer School 2025**. This repo contains code, notebooks, and solutions for labs and assignments during the course.
+Welcome to my repository for the **Qiskit Global Summer School 2025**. This repo contains code solutions for labs during the summer school.
 
 ##  Contents
 
@@ -19,7 +19,5 @@ Welcome to my repository for the **Qiskit Global Summer School 2025**. This repo
 - VS Code
 
 
-- [Qiskit Textbook](https://qiskit.org/textbook)
-- [Qiskit Documentation](https://docs.quantum.ibm.com/)
-- [QGSS 2025 Info](https://qiskit.org/events/summer-school)
+
 
