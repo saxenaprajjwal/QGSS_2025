@@ -1,12 +1,14 @@
 # Qiskit Global Summer School 2025 
 
-Welcome to my repository for the **Qiskit Global Summer School 2025**. This repo contains code, notebooks, and solutions for labs and assignments during the course.
+Welcome to my repository for the **Qiskit Global Summer School 2025**. This repo contains code solutions for labs during the summer school.
 
 ##  Contents
 
 - `lab0.ipynb` – GHZ state preparation and transpilation
-- `.gitignore` – Ensures API key files are not tracked by Git
-- API key files (excluded from repo)
+- `lab1.ipynb` – Recreating famous experiments at home like Superposition, Interference, Enatganlment and Quantum Teleportation
+- `lab2.ipynb` – Cutting through the noise: Max-cut problem, Noisy quantum simulator and Error Mitigation
+- `lab3.ipynb` – The Power of 'good sampling' for simulating a chemistry Hamiltonian with SQD
+- `lab4.ipynb` – Quantum Error Correction: From Core Concepts to the Road to Fault-Tolerant Quantum Computing
 
 ## 🛠️ Tools & Libraries
 
@@ -17,7 +19,5 @@ Welcome to my repository for the **Qiskit Global Summer School 2025**. This repo
 - VS Code
 
 
-- [Qiskit Textbook](https://qiskit.org/textbook)
-- [Qiskit Documentation](https://docs.quantum.ibm.com/)
-- [QGSS 2025 Info](https://qiskit.org/events/summer-school)
+
 
